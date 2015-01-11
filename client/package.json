@@ -1,0 +1,14 @@
+{
+  "name": "aMessageClient",
+  "version": "0.0.1",
+  "description": "The client to relay iMessages between the server and iMessage",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Aaron Taylor",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.10.6"
+  }
+}

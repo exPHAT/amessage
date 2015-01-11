@@ -1,0 +1,17 @@
+{
+  "name": "aMessageServer",
+  "version": "0.0.1",
+  "description": "The server to relay iMessages between client and phone.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Aaron Taylor",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.10.6",
+    "sha256": "^0.1.1",
+    "socket.io": "^1.2.1",
+    "tingodb": "^0.3.1"
+  }
+}
